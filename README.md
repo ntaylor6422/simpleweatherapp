@@ -1,4 +1,4 @@
-# new-app
+# Weather App
 
 ## Project setup
 ```
